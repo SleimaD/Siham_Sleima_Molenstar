@@ -12,7 +12,7 @@ body {
 
 
 header {
-    background-image: url('/public/images/banner-overlay-img.png');
+    background-image: url('./../images/banner-overlay-img.png');
     background-color: #0A1650;
     background-repeat: no-repeat;
     background-size: cover;
@@ -246,7 +246,7 @@ nav {
     align-items: center;
     background-color: #0A1650;
     gap: 50px;
-    background-image: url('/public/images/dots-img.png');
+    background-image: url('./../images/dots-img.png');
     background-repeat: no-repeat;
     background-position: right;
     /* background-size: 200px 250px; */
@@ -335,7 +335,7 @@ nav {
 
 .what-we-do {
     background-color: #122061;
-    background-image: url('/public/images/overly-img.png');
+    background-image: url('./../images/overly-img.png');
     background-size: contain;
     background-position: center;
     padding: 2rem;
@@ -461,7 +461,7 @@ nav {
     width: 100%;
     height: 615px;
     background-color:  #0A1650;
-    background-image: url('/public/images/dots-img2.png');
+    background-image: url('./../images/dots-img2.png');
     background-repeat: no-repeat;
     background-position: left;
     background-size: 13%;
@@ -573,7 +573,7 @@ nav {
 .reliableright {
     width: 50%;
     height: 100%;
-    background-image: url('/public/images/service-right-bg-img.png');
+    background-image: url('./../images/service-right-bg-img.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -636,7 +636,7 @@ nav {
     /* width: 100%; */
     height: 550px;
     background-color: #101e59 ;
-    background-image: url('/public/images/overly-img.png');
+    background-image: url('./../images/overly-img.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -744,7 +744,7 @@ button:hover {
 
 .our-news {
     background-color: #0A1650;
-    background-image: url('/public/images/dots-img2.png');
+    background-image: url('/.-/../images/dots-img2.png');
     background-size: 15%;
     background-repeat: no-repeat;
     background-position: left center;
@@ -910,7 +910,7 @@ button:hover {
 
 .get-in-touch {
     background-color: #0A1650;
-    background-image: url('/public/images/dots-img.png');
+    background-image: url('./../images/dots-img.png');
     background-repeat: no-repeat;
     background-position: right center;
     background-size: 13%;
@@ -1013,7 +1013,7 @@ button:hover {
 
 footer {
     background-color: #122061;
-    background-image: url('/public/images/overly-img.png');
+    background-image: url('./../images/overly-img.png');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
